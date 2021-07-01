@@ -1,4 +1,1 @@
-twitter 的finagle java简化抄袭版，还很不完善。有两个unit test，可以看一下使用方式。
-其中HopeTest部分，测试了山寨scala的akka的promise,future库。
 
-无聊的时候，可以看看。 ：）
